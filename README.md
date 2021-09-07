@@ -7,5 +7,5 @@
     <p> Com experiência na área administrativa e em tecnologia, busco maior aprendizagem em desenvolvimento de sistemas. </p>
     <p> Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UFPR.</p>
     <p> Após anos de experiência em outras áreas, decidi me aprofundar de vez na área da programação, área da qual estou completamente fascinado e obstinado.</p>
-    <p> Quero me aprofundar cada vez mais no mundo do desenvolvimento, e explorar como tudo funciona.</p>
+    <p> Quero me aproximar cada vez mais no mundo do desenvolvimento, e explorar como tudo funciona.</p>
 <hr>
