@@ -7,5 +7,9 @@
     <p> Com experiência na área administrativa e em tecnologia, busco maior aprendizagem em desenvolvimento de sistemas. </p>
     <p> Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UFPR, no 2º período.</p>
     <p> Após anos de experiência em outras áreas, decidi me aprofundar de vez na área da programação, área da qual estou completamente fascinado e obstinado.</p>
-    <p> Quero me aproximar cada vez mais no mundo do desenvolvimento, e explorar como tudo funciona.</p>
+    <p> Quero me aproximar cada vez mais no mundo do desenvolvimento, e explorar como cada detalhe funciona.</p>
 <hr>
+
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
