@@ -19,7 +19,7 @@
 
 <h3 align="center"> About me! 👨‍💻</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" height="15px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" height="15px">
 </div>
 <div align=center>
 - 🔭 I’m currently working on improving myself! <br>
