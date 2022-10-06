@@ -1,9 +1,12 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+
+<p  align="center">
+<img src="https://raw.githubusercontent.com/arthurgian/arthurgian/main/ARTHUR.gif">
 </p>
 
-<img src="https://camo.githubusercontent.com/517999142a06561485142c0bfdf24579bb0b7228c0117f4938e150f9aab9ff88/68747470733a2f2f692e6962622e636f2f3638726e44365a2f4152544855522e676966">
-<br>
+
 
 <p  align="center">
 <img  src="https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&color=042c6b&width=1000&lines=Hi!+my+name+is+Arthur!;Student+of+analysis+and+systems+development;Be+welcome+to+know+about+me!"  width="100%"  height="40px></a>
