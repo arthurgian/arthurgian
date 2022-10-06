@@ -1,9 +1,9 @@
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif">
 </p>  
 
 <p  align="center">
-<img src="https://raw.githubusercontent.com/arthurgian/arthurgian/main/ARTHUR.gif">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/Arthur.gif">
 </p>
 
 
@@ -15,14 +15,14 @@
 
 </br>
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif">
 </p>         
                                                                                                                 
-<img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/874c52e9a57554487a37438bceb76be9e82a2f4fdfda75f73c611d455cdbb76e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31302f32372f66382f31303237663830616561626362623734613265363938626537313832396539652e676966" /> 
+<img align="right" height="270px" alt="GIF" src="https://github.com/arthurgian/arthurgian/blob/main/Images/Bat.gif" /> 
 
 <h3 align="center"> About me! 👨‍💻</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" height="15px">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif" width="500" height="15px">
 </div>
 <div align=center>
 - 🔭 I’m currently working on improving myself! <br>
@@ -39,13 +39,13 @@
 </p>
                                                                                                                           
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif">
 </p>  
 
 <h3 align="center"> Technologies </h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250" height="15px">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif" width="250" height="15px">
 </div>
 
 <br>
@@ -63,12 +63,12 @@
 
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif">
 </p>  
 
 <h3 align="center"> GitHub Status </h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" height="15px">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif" width="300" height="15px">
 </div>
 <table border="0">
 <tr border="0">
@@ -85,6 +85,6 @@
                                                                                     
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif">
 </p>
                                                                                          
