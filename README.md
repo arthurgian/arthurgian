@@ -9,11 +9,9 @@
 
 
 <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&color=042c6b&width=1000&lines=Hi!+my+name+is+Arthur!;Student+of+analysis+and+systems+development;Be+welcome+to+know+about+me!"  width="100%"  height="40px></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=35&duration=2000&pause=1500&color=001F6C&center=true&vCenter=true&width=800&height=80&lines=Hi!+My+name+is+Arthur!;Student+of+analysis+and+systems+development;Be+welcome+to+know+about+me!" alt="Typing SVG" /></a>
 </p>
 
-
-</br>
 <p  align="center">
 <img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif">
 </p>         
