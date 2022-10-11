@@ -20,7 +20,7 @@
 
 <h3 align="center"> About me! 👨‍💻</h3>
 <div align="center">
-<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif" width="450" height="15px">
+<img src="https://github.com/arthurgian/arthurgian/blob/main/Images/hr.gif" width="200" height="15px">
 </div>
 <div align=center>
 - 🔭 I’m currently working on improving myself! <br>
