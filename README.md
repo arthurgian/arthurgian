@@ -55,6 +55,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="40">
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/react-colored.svg" width="40">
 <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/figma-colored.svg" width="40">
+<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/ruby-colored.svg" width="40">
 </div>
 <br>
 
