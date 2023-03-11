@@ -24,7 +24,7 @@
 </div>
 <div align=center>
 - 🔭 I’m currently working on improving myself! <br>
-- 💻 Currently learning more about web development! <br>
+- 💻 Currently learning more about Ruby on Rails! <br>
 - 🎓 Student at Paraná Federal University, at 4th period. <br>
 - ✈️ Looking and open for new opportunities.
 </div>
