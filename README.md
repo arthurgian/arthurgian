@@ -166,7 +166,7 @@ Projects: [Platform](https://www.go44.co/a-plataforma/)
 
 <!-- ==================================================== CONTACT ================================================ -->
 
-<img align="right" height="200px" alt="GIF" src="https://github.com/arthurgian/arthurgian/blob/main/Images/Bat.gif" /> 
+<img align="right" height="170px" alt="GIF" src="https://github.com/arthurgian/arthurgian/blob/main/Images/Bat.gif" /> 
 
 <h3 align="center"> Contact me! 👨‍💻</h3>
 <div align="center">
