@@ -163,7 +163,7 @@ Projects: [Platform](https://www.go44.co/a-plataforma/)
 <br/>
 
 > [!TIP]
-> Please, find me in [LinkedIn](https://www.linkedin.com/in/iuricode/) for a more detailed information about professional experiences, education and certifications.
+> Please, find me in [LinkedIn](https://www.linkedin.com/in/arthur-gian/) for a more detailed information about professional experiences, education and certifications.
   <hr />
 <!-- ==================================================== STATISTICS ========================================== -->
 
