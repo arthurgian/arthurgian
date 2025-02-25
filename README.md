@@ -15,6 +15,8 @@
  <hr />
 
 ```jsx
+import React, { useState, useRef, useMemo, useEffect } from 'react';
+
 const ArthurGian = ({
   city = "Curitiba, BR",
   languages = ["EN", "PT-BR", "ES"],
@@ -25,22 +27,45 @@ const ArthurGian = ({
   education = "Tech System Analysis and Development"
 }) => {
   const [isAvailable] = useState(true);
-  const strength = useRef("Adaptability");
-  const weakness = useMemo(() => "Shyness", []);
+  const profileRef = useRef(null);
+
+  const weakness = useMemo(() => {
+    return "Shyness (overcome with pair programming)";
+  }, []);
+  
+  useEffect(() => {
+    console.log("Component ArthurGian mounted!");
+    if (profileRef.current) {
+      profileRef.current.focus();
+    }
+  }, []);
 
   return (
-    <div className="developer-profile">
+    <div className="developer-profile" ref={profileRef}>
       <h1>ArthurGian Component</h1>
+      
+      <div className="status-indicator">
+        {isAvailable && <div className="availability-badge">🟢 Available for opportunities</div>}
+      </div>
+
       <div className="props-renderer">
         <p>📍 Location: {city}</p>
         <p>🗣️ Languages: {languages.join(' | ')}</p>
         <p>💼 Role: {role}</p>
         <p>🚀 Specialization: {specialization}</p>
+        <p>⚡ Main Strength: Adaptability</p>
+        <p>⚠️ Working On: {weakness}</p>
       </div>
 
-      {/**
-        * @throws {Punch} - Bugs will be immediately squashed 🐞➡️👊
-        * @version 2.1.0 - Latest stable release
+      <div className="call-to-action">
+        <p>💡 {profileRef.current && "Profile loaded and focused!"}</p>
+        {interests.map(interest => (
+          <span key={interest} className="interest-tag">#{interest}</span>
+        ))}
+      </div>
+
+      {/*
+        * @version 2.1.1 - Hooks edition
         * @component
         * @example
         * <ArthurGian 
