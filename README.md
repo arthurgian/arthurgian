@@ -64,7 +64,7 @@ export default React.memo(ArthurGian);
 </div>
 <table width="100%" border="0" align="center">
   <tr>
-   <td width="275px" align="center">
+   <td width="270px" align="center">
          <h3 align="center">Programming Languages</h3>
    </td>
    <td width="300px" align="center">
@@ -115,7 +115,6 @@ export default React.memo(ArthurGian);
       <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAm0lEQVR4nO3WIQpCQRCA4Q88gc3oHYw2b2Cw2jyBwWx6NxDsFm8geACLxeoBLILJYlqTYHq4zxUV5oeJM/+yDDND8Me00cMIMyyxxamUYIgpFtjgiBtSTRR5dZ0gW3zA9cXkouKUkRziFF8tmit4IgZIipEprx9iO/3eIfCggz7GmGOFHc6fFn/t2GtKC10MMEGFNfa4NK4aeIM7YtebsFbY06oAAAAASUVORK5CYII=" alt="windows-10">
       <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     </td>
   </tr>
 </table>
