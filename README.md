@@ -161,6 +161,9 @@ export default React.memo(ArthurGian);
 Languages & Technologies: `Ruby`, `React`, `Typescript`, `JavaScript`, `Cypress`, `Styled Components`\
 Projects: [Platform](https://www.go44.co/a-plataforma/)
 <br/>
+
+<img align="left" height="94px" width="94px" margin="100px 0" alt="Warpnet" src="https://static.wixstatic.com/media/9fc1ec_3066a8b67135443e8a4e7e1c38709caa~mv2.png/v1/crop/x_0,y_188,w_500,h_125/fill/w_498,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Golive_2021.png"/>
+
 **Full Stack Developer** \
 [**Go Live - Consultoria SAP**](https://www.goliveconsultoria.com.br/) • Full-time
 Languages & Technologies: `React`, `Next`, `SAP B1`, `Service Layer`, `Node`, `JavaScript`\
