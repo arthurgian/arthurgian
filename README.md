@@ -161,6 +161,10 @@ export default React.memo(ArthurGian);
 Languages & Technologies: `Ruby`, `React`, `Typescript`, `JavaScript`, `Cypress`, `Styled Components`\
 Projects: [Platform](https://www.go44.co/a-plataforma/)
 <br/>
+**Full Stack Developer** \
+[**Go Live - Consultoria SAP**](https://www.goliveconsultoria.com.br/) • Full-time
+Languages & Technologies: `React`, `Next`, `SAP B1`, `Service Layer`, `Node`, `JavaScript`\
+Projects: [Platform](https://livemoda.goliveconsultoria.com.br/livemoda) 
 
 > [!TIP]
 > Please, find me in [LinkedIn](https://www.linkedin.com/in/arthur-gian/) for a more detailed information about professional experiences, education and certifications.
