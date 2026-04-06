@@ -11,7 +11,7 @@
 
 <!-- ==================================================== ABOUT ME ================================================== -->
  <hr />
- <h3 align="center"> About me 🧑🏻 </h3>
+ <h3 align="center"> About me </h3>
  <hr />
 
 ```jsx
@@ -45,20 +45,20 @@ const ArthurGian = ({
       <h1>ArthurGian Component</h1>
       
       <div className="status-indicator">
-        {isAvailable && <div className="availability-badge">🟢 Available for opportunities</div>}
+        {isAvailable && <div className="availability-badge">Available for opportunities</div>}
       </div>
 
       <div className="props-renderer">
-        <p>📍 Location: {city}</p>
-        <p>🗣️ Languages: {languages.join(' | ')}</p>
-        <p>💼 Role: {role}</p>
-        <p>🚀 Specialization: {specialization}</p>
-        <p>⚡ Main Strength: Adaptability</p>
-        <p>⚠️ Working On: {weakness}</p>
+        <p> Location: {city}</p>
+        <p> Languages: {languages.join(' | ')}</p>
+        <p> Role: {role}</p>
+        <p> Specialization: {specialization}</p>
+        <p> Main Strength: Adaptability</p>
+        <p> Working On: {weakness}</p>
       </div>
 
       <div className="call-to-action">
-        <p>💡 {profileRef.current && "Profile loaded and focused!"}</p>
+        <p> {profileRef.current && "Profile loaded and focused!"}</p>
         {interests.map(interest => (
           <span key={interest} className="interest-tag">#{interest}</span>
         ))}
@@ -70,7 +70,7 @@ const ArthurGian = ({
         * @example
         * <ArthurGian 
         *   collaboration={true}
-        *   contact="🔍 See contact cards" 
+        *   contact="See contact cards" 
         * />
         */}
     </div>
@@ -83,7 +83,7 @@ export default React.memo(ArthurGian);
 
 <!-- ==================================================== TECHNOLOGIES ================================================== -->
 
-<h3 align="center">Technologies 🤖</h3>
+<h3 align="center">Technologies</h3>
 <div align="center">
   <hr />
 </div>
@@ -150,7 +150,7 @@ export default React.memo(ArthurGian);
 
 <!-- ==================================================== PROFESSIONAL EXPERIENCE ========================================== -->
 
-<h3 align="center">Professional Experience 💼</h3>
+<h3 align="center">Professional Experience </h3>
   <hr />
 
 
@@ -174,7 +174,7 @@ Projects: [Platform](https://livemoda.goliveconsultoria.com.br/livemoda)
   <hr />
 <!-- ==================================================== STATISTICS ========================================== -->
 
-<h3 align="center">GitHub Status 📊</h3>
+<h3 align="center">GitHub Status</h3>
 <div align="center">
   <hr />
 </div>
@@ -199,7 +199,7 @@ Projects: [Platform](https://livemoda.goliveconsultoria.com.br/livemoda)
 
 <img align="right" height="170px" alt="GIF" src="https://github.com/arthurgian/arthurgian/blob/main/Images/Bat.gif" /> 
 
-<h3 align="center"> Contact me! 👨‍💻</h3>
+<h3 align="center"> Contact me!</h3>
 <div align="center">
   <hr />
 </div>
